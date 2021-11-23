@@ -8,7 +8,7 @@ Clojure(script)
   - [Frontend clojurescript application](https://github.com/danielhvs/solar-front/tree/main/)
 
 * Quil
-  - [Clojure Quil Sketch](https://github.com/danielhvs/label-maker/)
+  - [Label Maker](https://github.com/danielhvs/label-maker/)
 
 Java
 ===========
