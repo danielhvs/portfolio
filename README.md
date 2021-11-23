@@ -6,7 +6,6 @@ Clojure(script)
 * Solar Panels Budget Generator Application
   - [Backend clojure application](https://github.com/danielhvs/solar-back/tree/main/)
   - [Frontend clojurescript application](https://github.com/danielhvs/solar-front/tree/main/)
-
 * Quil
   - [Label Maker](https://github.com/danielhvs/label-maker/)
 
