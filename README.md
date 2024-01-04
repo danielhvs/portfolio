@@ -3,6 +3,8 @@ Portfolio
 
 Clojure(script) (year 2023)
 ===============
+* A simple CV generator (clojure)
+  - [nerdCV](https://github.com/danielhvs/nerdCV/tree/main/)
 * Sample using Docker and shadow-cljs (Material UI)
   - [Backend clojure application](https://github.com/danielhvs/company-back/tree/main/)
   - [Frontend clojurescript application](https://github.com/danielhvs/company-front/tree/main/)
