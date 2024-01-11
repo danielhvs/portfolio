@@ -17,6 +17,7 @@ Clojure(script) (year 2021)
 * Quil
   - [Label Maker](https://github.com/danielhvs/label-maker/)
 
-Java (Older)
+Java
 ===========
-  - [Java game application](https://github.com/danielhvs/cross-words-game)
+  - [Java game application](https://github.com/danielhvs/word-search-game/tree/main)
+
